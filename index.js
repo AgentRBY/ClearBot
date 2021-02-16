@@ -10,4 +10,4 @@ permission.command(client, {
     commandPrefix: true 
 });
  
-client.login("NzczNjYxMzUwMTE5NDczMTcz.X6MeRw.kSA-4EjozdJO9tCh_UYSoFlYkQE");
+client.login("TOKEN");
